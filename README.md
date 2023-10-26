@@ -1,24 +1,19 @@
-# README
+# AirbnbDog
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Bienvenue dans AirbnbDog ! Cette application est conçue pour permettre aux propriétaires de chiens de trouver des promeneurs de chiens dans leur ville. Les propriétaires de chiens peuvent trouver des promeneurs expérimentés et fiables pour prendre soin de leurs chiens pendant qu'ils sont occupés.
 
-Things you may want to cover:
+## Installation
 
-* Ruby version
+1. Clonez ce référentiel sur votre machine locale en utilisant la commande suivante :
 
-* System dependencies
+git clone https://github.com/votre_utilisateur/AirbnbDog.git
 
-* Configuration
 
-* Database creation
 
-* Database initialization
 
-* How to run the test suite
 
-* Services (job queues, cache servers, search engines, etc.)
 
-* Deployment instructions
 
-* ...
+
+
+
