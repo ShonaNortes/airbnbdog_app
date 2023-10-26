@@ -4,7 +4,7 @@ Bienvenue dans AirbnbDog ! Cette application est conçue pour permettre aux prop
 
 ## Installation
 
-1. Clonez ce référentiel sur votre machine locale en utilisant la commande suivante :
+Clonez ce référentiel sur votre machine locale en utilisant la commande suivante :
 
 git clone https://github.com/votre_utilisateur/AirbnbDog.git
 
